@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kefelle
-- 👀 I’m interested in programming and stuff also soome video editing
-- 🌱 I’m currently learning C programming language
+- 👀 I’m interested in programming and stuff also some video editing
+- 🌱 I’m currently learning C programming language and web developpement !!
 
 
 <!---
